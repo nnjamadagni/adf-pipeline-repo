@@ -10,7 +10,7 @@
 					"referenceName": "CredentialStore",
 					"type": "LinkedServiceReference"
 				},
-				"secretName": "sqlpassword"
+				"secretName": "sqlconnectionstring"
 			}
 		}
 	}
