@@ -1,8 +1,8 @@
 {
-	"name": "SQL",
+	"name": "Usecase1Dataset",
 	"properties": {
 		"linkedServiceName": {
-			"referenceName": "DEVSQLDatabase",
+			"referenceName": "UsecaseDB",
 			"type": "LinkedServiceReference"
 		},
 		"folder": {
@@ -77,7 +77,7 @@
 		],
 		"typeProperties": {
 			"schema": "SalesLT",
-			"table": "Customer"
+			"table": "CustomerAddress"
 		}
 	}
 }
