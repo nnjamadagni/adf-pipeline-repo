@@ -20,7 +20,7 @@
 						"queryTimeout": "02:00:00"
 					},
 					"dataset": {
-						"referenceName": "Usecase1Dataset",
+						"referenceName": "SQL",
 						"type": "DatasetReference"
 					}
 				}
